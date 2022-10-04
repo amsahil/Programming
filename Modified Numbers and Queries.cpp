@@ -2,7 +2,7 @@
 
 Modified Numbers and Queries
 
-Number of Distinct Islands
+
 
 P.S:-Find the sum of all the numbers between the range l and r. Here each number is represented by the sum of its prime factors.
 
